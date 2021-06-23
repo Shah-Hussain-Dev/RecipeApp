@@ -25,7 +25,7 @@ const RecipeList = (props) => {
   const classes = useStyles();
   // const { label, image, ingredients, url } = props.data;
   const { data } = props;
-  const [open, setOpen] = React.useState(false);
+  const [open, setOpen] = useState(false);
 
   const handleOpen = () => {
     setOpen(true);

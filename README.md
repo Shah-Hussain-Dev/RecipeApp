@@ -1,5 +1,6 @@
 #Recipe 🍔 App in React Js
-##🥫 🍔 🍰 🍨 🍕
+
+<p align="center">🥫 🍔 🍰 🍨 🍕 🥣</p>
 
 <p align="center"><img src="RecipeApp.png"></p>
 
