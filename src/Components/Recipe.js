@@ -83,7 +83,7 @@ const Recipe = () => {
             alt="food"
           />
         </span>
-        <span className="badge badge-pill badge-warning mx-3 my-3  shadow-box hd">
+        <span className="badge badge-pill badge-warning mx-1 my-3  shadow-box hd">
           Delicious Food
         </span>{" "}
         <span>
