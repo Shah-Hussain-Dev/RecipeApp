@@ -1,4 +1,4 @@
-#Recipe 🍔 App in React Js
+<h1>Recipe 🍔 App in React Js</h1>
 
 <p align="center">🥫 🍔 🍰 🍨 🍕 🥣</p>
 
