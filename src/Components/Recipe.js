@@ -40,7 +40,7 @@ const Recipe = () => {
           href="/"
           style={{ fontSize: "2rem" }}
         >
-          Recipe{" "}
+          Recipe
           <span>
             <img
               className="shadow-box img-nav"
@@ -48,7 +48,7 @@ const Recipe = () => {
               alt="Food"
               style={{ height: "40px" }}
             />
-          </span>{" "}
+          </span>
           King
         </a>
 
@@ -74,7 +74,6 @@ const Recipe = () => {
         </form>
       </nav>
       <h2 className="text-center mt-3 px-4 mb-3">
-        {" "}
         <span>
           <img
             src="https://image.flaticon.com/icons/png/128/1037/1037762.png"
@@ -85,7 +84,7 @@ const Recipe = () => {
         </span>
         <span className="badge badge-pill badge-warning mx-1 my-3  shadow-box hd">
           Delicious Food
-        </span>{" "}
+        </span>
         <span>
           <img
             src="https://image.flaticon.com/icons/png/128/2944/2944515.png"
@@ -93,7 +92,7 @@ const Recipe = () => {
             className="shadow-box"
             alt="food"
           />
-        </span>{" "}
+        </span>
       </h2>
       <div className="container  food-container d-flex justify-content-center flex-wrap ">
         <RecipeList data={recipeList} />
